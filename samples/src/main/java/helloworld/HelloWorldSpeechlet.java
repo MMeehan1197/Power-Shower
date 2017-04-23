@@ -9,6 +9,7 @@
  */
 package helloworld;
 
+import org.apache.commons.lang3.time.StopWatch;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -26,118 +27,151 @@ import com.amazon.speech.ui.Reprompt;
 import com.amazon.speech.ui.SimpleCard;
 
 /**
- * This sample shows how to create a simple speechlet for handling speechlet requests.
+ * This sample shows how to create a simple speechlet for handling speechlet
+ * requests.
  */
+
 public class HelloWorldSpeechlet implements Speechlet {
-    private static final Logger log = LoggerFactory.getLogger(HelloWorldSpeechlet.class);
+	private static final Logger log = LoggerFactory.getLogger(HelloWorldSpeechlet.class);
 
-    @Override
-    public void onSessionStarted(final SessionStartedRequest request, final Session session)
-            throws SpeechletException {
-        log.info("onSessionStarted requestId={}, sessionId={}", request.getRequestId(),
-                session.getSessionId());
-        // any initialization logic goes here
-    }
+	private long timeStart;
+	private long timeDifference;
 
-    @Override
-    public SpeechletResponse onLaunch(final LaunchRequest request, final Session session)
-            throws SpeechletException {
-        log.info("onLaunch requestId={}, sessionId={}", request.getRequestId(),
-                session.getSessionId());
-        return getWelcomeResponse();
-    }
+	@Override
+	public void onSessionStarted(final SessionStartedRequest request, final Session session) throws SpeechletException {
+		log.info("onSessionStarted requestId={}, sessionId={}", request.getRequestId(), session.getSessionId());
+		// any initialization logic goes here
+	}
 
-    @Override
-    public SpeechletResponse onIntent(final IntentRequest request, final Session session)
-            throws SpeechletException {
-        log.info("onIntent requestId={}, sessionId={}", request.getRequestId(),
-                session.getSessionId());
+	@Override
+	public SpeechletResponse onLaunch(final LaunchRequest request, final Session session) throws SpeechletException {
+		log.info("onLaunch requestId={}, sessionId={}", request.getRequestId(), session.getSessionId());
+		return getWelcomeResponse();
+	}
 
-        Intent intent = request.getIntent();
-        String intentName = (intent != null) ? intent.getName() : null;
+	@Override
+	public SpeechletResponse onIntent(final IntentRequest request, final Session session) throws SpeechletException {
+		log.info("onIntent requestId={}, sessionId={}", request.getRequestId(), session.getSessionId());
 
-        if ("HelloWorldIntent".equals(intentName)) {
-            return getHelloResponse();
-        } else if ("AMAZON.HelpIntent".equals(intentName)) {
-            return getHelpResponse();
-        } else {
-            throw new SpeechletException("Invalid Intent");
-        }
-    }
+		Intent intent = request.getIntent();
+		String intentName = (intent != null) ? intent.getName() : null;
 
-    @Override
-    public void onSessionEnded(final SessionEndedRequest request, final Session session)
-            throws SpeechletException {
-        log.info("onSessionEnded requestId={}, sessionId={}", request.getRequestId(),
-                session.getSessionId());
-        // any cleanup logic goes here
-    }
+		if ("StartTimerIntent".equals(intentName)) {
+			return getStartTimerResponse();
+		} else if ("EndTimerIntent".equals(intentName)) {
+			return getEndTimerResponse();
+		} else if ("AMAZON.HelpIntent".equals(intentName)) {
+			return getHelpResponse();
+		} else {
+			throw new SpeechletException("Invalid Intent");
+		}
+	}
 
-    /**
-     * Creates and returns a {@code SpeechletResponse} with a welcome message.
-     *
-     * @return SpeechletResponse spoken and visual response for the given intent
-     */
-    private SpeechletResponse getWelcomeResponse() {
-        String speechText = "Welcome to the Alexa Skills Kit, you can say hello";
+	@Override
+	public void onSessionEnded(final SessionEndedRequest request, final Session session) throws SpeechletException {
+		log.info("onSessionEnded requestId={}, sessionId={}", request.getRequestId(), session.getSessionId());
+		// any cleanup logic goes here
+	}
 
-        // Create the Simple card content.
-        SimpleCard card = new SimpleCard();
-        card.setTitle("HelloWorld");
-        card.setContent(speechText);
+	/**
+	 * Creates and returns a {@code SpeechletResponse} with a welcome message.
+	 *
+	 * @return SpeechletResponse spoken and visual response for the given intent
+	 */
+	private SpeechletResponse getWelcomeResponse() {
+		String speechText = "Welcome to Power Shower";
 
-        // Create the plain text output.
-        PlainTextOutputSpeech speech = new PlainTextOutputSpeech();
-        speech.setText(speechText);
+		// Create the Simple card content.
+		SimpleCard card = new SimpleCard();
+		card.setTitle("PowerShowerStart");
+		card.setContent(speechText);
 
-        // Create reprompt
-        Reprompt reprompt = new Reprompt();
-        reprompt.setOutputSpeech(speech);
+		// Create the plain text output.
+		PlainTextOutputSpeech speech = new PlainTextOutputSpeech();
+		speech.setText(speechText);
 
-        return SpeechletResponse.newAskResponse(speech, reprompt, card);
-    }
+		// Create reprompt
+		Reprompt reprompt = new Reprompt();
+		reprompt.setOutputSpeech(speech);
 
-    /**
-     * Creates a {@code SpeechletResponse} for the hello intent.
-     *
-     * @return SpeechletResponse spoken and visual response for the given intent
-     */
-    private SpeechletResponse getHelloResponse() {
-        String speechText = "Hello world";
+		return SpeechletResponse.newAskResponse(speech, reprompt, card);
+	}
 
-        // Create the Simple card content.
-        SimpleCard card = new SimpleCard();
-        card.setTitle("HelloWorld");
-        card.setContent(speechText);
+	/**
+	 * Creates and returns a {@code SpeechletResponse} with an ending message.
+	 *
+	 * @return SpeechletResponse spoken and visual response for the given intent
+	 */
+	private SpeechletResponse getEndTimerResponse() {
+		
+		timeDifference = (System.nanoTime() - timeStart)/1000000000;
+		
+		String speechText = "The timer has ended. You took " + timeDifference  + " seconds to finish showering."+
+	" Compare that to the national average of " + "[input national average here]";
 
-        // Create the plain text output.
-        PlainTextOutputSpeech speech = new PlainTextOutputSpeech();
-        speech.setText(speechText);
+		
+		// Create the Simple card content.
+		SimpleCard card = new SimpleCard();
+		card.setTitle("PowerShowerEnd");
+		card.setContent(speechText);
 
-        return SpeechletResponse.newTellResponse(speech, card);
-    }
+		// Create the plain text output.
+		PlainTextOutputSpeech speech = new PlainTextOutputSpeech();
+		speech.setText(speechText);
 
-    /**
-     * Creates a {@code SpeechletResponse} for the help intent.
-     *
-     * @return SpeechletResponse spoken and visual response for the given intent
-     */
-    private SpeechletResponse getHelpResponse() {
-        String speechText = "You can say hello to me!";
+		// Create reprompt
+		Reprompt reprompt = new Reprompt();
+		reprompt.setOutputSpeech(speech);
 
-        // Create the Simple card content.
-        SimpleCard card = new SimpleCard();
-        card.setTitle("HelloWorld");
-        card.setContent(speechText);
+		return SpeechletResponse.newTellResponse(speech, card);
+	}
 
-        // Create the plain text output.
-        PlainTextOutputSpeech speech = new PlainTextOutputSpeech();
-        speech.setText(speechText);
+	/**
+	 * Creates a {@code SpeechletResponse} for the hello intent.
+	 *
+	 * @return SpeechletResponse spoken and visual response for the given intent
+	 */
+	private SpeechletResponse getStartTimerResponse() {
+		String speechText = "Starting Timer. Ready, <break time=\"0.1s\" /> Set, <break time=\"0.1s\" /> Go!";
+		
+		timeStart = System.nanoTime();
 
-        // Create reprompt
-        Reprompt reprompt = new Reprompt();
-        reprompt.setOutputSpeech(speech);
+		// Create the Simple card content.
+		SimpleCard card = new SimpleCard();
+		card.setTitle("StartTimer");
+		card.setContent(speechText);
 
-        return SpeechletResponse.newAskResponse(speech, reprompt, card);
-    }
+		// Create the plain text output.
+		PlainTextOutputSpeech speech = new PlainTextOutputSpeech();
+		speech.setText(speechText);
+		// Create reprompt
+		Reprompt reprompt = new Reprompt();
+		reprompt.setOutputSpeech(speech);
+
+		return SpeechletResponse.newAskResponse(speech, reprompt, card);
+	}
+
+	/**
+	 * Creates a {@code SpeechletResponse} for the help intent.
+	 *
+	 * @return SpeechletResponse spoken and visual response for the given intent
+	 */
+	private SpeechletResponse getHelpResponse() {
+		String speechText = "Tell me to start in order to start your shower timer.";
+
+		// Create the Simple card content.
+		SimpleCard card = new SimpleCard();
+		card.setTitle("PowerShowerHelp");
+		card.setContent(speechText);
+
+		// Create the plain text output.
+		PlainTextOutputSpeech speech = new PlainTextOutputSpeech();
+		speech.setText(speechText);
+
+		// Create reprompt
+		Reprompt reprompt = new Reprompt();
+		reprompt.setOutputSpeech(speech);
+
+		return SpeechletResponse.newAskResponse(speech, reprompt, card);
+	}
 }

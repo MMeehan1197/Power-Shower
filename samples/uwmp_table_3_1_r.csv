@@ -1,0 +1,337 @@
+ORG_ID,WATER_SUPPLIER_NAME,WORKSHEET_NAME,REVIEWED_BY_DWR,REQUIREMENTS_ADDRESSED,WP_WUEDATA_PLAN_ID,POPULATION_SERVED_2015,POPULATION_SERVED_2020,POPULATION_SERVED_2025,POPULATION_SERVED_2030,POPULATION_SERVED_2035,POPULATION_SERVED_2040
+13,Adelanto  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,614,33080,35476,38453,42221,46311,50182
+23,Alameda County Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,368,344278,353300,367600,382500,398700,415600
+30,Alhambra  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,580,85545,88001,90457,92913,95369,97825
+55,Amador Water Agency,Table 3-1 Retail: Population - Current and Projected,No,N/A,477,13868,16101,17376,18651,19679,20707
+57,American Canyon  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,173,20315,22462,24609,26756,28903,31210
+64,Anaheim  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,Advisory Letter Sent,741,360142,366938,374836,387739,396021,417456
+82,Antioch  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,231,108298,108900,112400,116200,120300,124600
+87,Apple Valley Ranchos Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,353,59601,63372,68256,73445,78545,83003
+93,Arcadia  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,343,55342,56713,58166,59657,61186,62753
+94,Arcata  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,341,19300,19877,21392,21784,22183,22590
+99,Arroyo Grande  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,539,17636,18524,19054,19716,20000,
+107,Atascadero Mutual Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,462,29870,32372,33521,34711,35943,37219
+117,Azusa  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,604,106332,109200,111600,114100,116600,119200
+124,Bakman Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,213,16797,18745,20587,22609,24583,26729
+129,Banning  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,459,30491,35730,40969,46207,51446,56685
+170,Bellflower - Somerset Mutual Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,538,49140,49299,49615,49933,50253,50635
+178,Benicia  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,349,27689,27908,29246,30650,32120,33661
+193,Beverly Hills  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,498,43189,43942,44694,45446,46198,46950
+197,Big Bear Community Services District,Table 3-1 Retail: Population - Current and Projected,No,N/A,400,11528,11667,12244,12849,13485,
+198,Big Bear Lake  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,601,25601,26510,27451,28425,29434,30479
+262,Brawley  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,448,26273,28900,31790,34969,38466,
+263,Brea  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,742,43093,48583,48793,49129,50507,50458
+264,Brentwood  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,425,56493,60702,65225,70084,75306,80917
+283,Buena Park  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,743,82791,84021,86159,88437,90419,92112
+285,Burbank  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,466,106084,112451,113179,114850,115680,118821
+286,Burlingame  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,520,31109,32793,34477,36162,37846,39530
+351,Calaveras County Water District,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,280,20698,22066,23173,24030,24747,25183
+368,California American Water Company - Los Angeles Division,Table 3-1 Retail: Population - Current and Projected,No,N/A,509,101777,103419,105756,108148,110595,
+369,California American Water Company - Monterey District,Table 3-1 Retail: Population - Current and Projected,No,N/A,585,95191,96560,97950,99362,100796,
+372,California American Water Company - Sacramento District,Table 3-1 Retail: Population - Current and Projected,No,N/A,683,203851,211886,224332,238511,254922,
+373,California American Water Company - San Diego District,Table 3-1 Retail: Population - Current and Projected,No,N/A,508,94043,95289,98223,101246,104363,103637
+376,California American Water Company - Ventura District,Table 3-1 Retail: Population - Current and Projected,No,N/A,408,63423,64706,65438,66178,66926,
+384,California Water Service Company Antelope Valley,Table 3-1 Retail: Population - Current and Projected,No,N/A,217,3390,3483,3575,3668,3761,3854
+386,California Water Service Company Bakersfield,Table 3-1 Retail: Population - Current and Projected,No,N/A,285,278488,293152,308590,324845,341959,359979
+387,California Water Service Company Bear Gulch,Table 3-1 Retail: Population - Current and Projected,No,N/A,277,59883,61202,62555,63944,65369,66831
+388,California Water Service Company Chico District,Table 3-1 Retail: Population - Current and Projected,No,N/A,288,102155,112337,122902,129856,137250,145113
+390,"California Water Service Company Dixon, City of",Table 3-1 Retail: Population - Current and Projected,No,N/A,289,9891,10320,10800,11341,11950,12639
+391,California Water Service Company Dominguez,Table 3-1 Retail: Population - Current and Projected,No,N/A,290,142231,144201,146202,148230,150287,152372
+392,California Water Service Company East Los Angeles,Table 3-1 Retail: Population - Current and Projected,No,N/A,301,150729,158497,162982,165790,166437,167087
+396,California Water Service Company Hermosa/Redondo,Table 3-1 Retail: Population - Current and Projected,No,N/A,302,95774,97992,100261,102584,104961,107393
+397,California Water Service Company Kern River Valley,Table 3-1 Retail: Population - Current and Projected,No,N/A,303,5583,5613,5643,5676,5711,5747
+398,California Water Service Company King City,Table 3-1 Retail: Population - Current and Projected,No,N/A,306,14854,16940,19392,22284,25704,29761
+401,California Water Service Company Livermore,Table 3-1 Retail: Population - Current and Projected,No,N/A,309,58095,62212,67382,68566,68566,68566
+402,California Water Service Company Los Altos/Suburban,Table 3-1 Retail: Population - Current and Projected,No,N/A,310,68604,71536,74714,78163,81909,85980
+405,California Water Service Company Marysville,Table 3-1 Retail: Population - Current and Projected,No,N/A,311,12177,12382,12593,12810,13033,13261
+420,California Water Service Company Mid Peninsula,Table 3-1 Retail: Population - Current and Projected,No,N/A,312,133679,139642,146125,153178,160856,169216
+412,California Water Service Company Oroville,Table 3-1 Retail: Population - Current and Projected,No,N/A,313,10517,10922,11360,11832,12343,12895
+413,California Water Service Company Palos Verdes,Table 3-1 Retail: Population - Current and Projected,No,N/A,315,69899,70122,70348,70577,70808,71043
+416,California Water Service Company Redwood Valley,Table 3-1 Retail: Population - Current and Projected,No,N/A,316,3201,3270,3321,3404,3455,3539
+417,California Water Service Company Salinas District,Table 3-1 Retail: Population - Current and Projected,No,N/A,317,121203,127596,134343,141463,148977,156908
+421,California Water Service Company Selma,Table 3-1 Retail: Population - Current and Projected,No,N/A,318,24794,26404,28125,29963,31928,34029
+422,California Water Service Company South San Francisco,Table 3-1 Retail: Population - Current and Projected,No,N/A,319,61223,63430,65732,68133,70639,73254
+424,California Water Service Company Stockton,Table 3-1 Retail: Population - Current and Projected,No,N/A,320,170414,173676,177038,180504,184079,187766
+427,California Water Service Company Visalia,Table 3-1 Retail: Population - Current and Projected,No,N/A,321,138404,157741,179779,204896,231821,259102
+428,California Water Service Company Westlake,Table 3-1 Retail: Population - Current and Projected,No,N/A,323,19458,19540,19622,19704,19787,19871
+429,California Water Service Company Willows,Table 3-1 Retail: Population - Current and Projected,No,N/A,324,7118,7915,8535,9155,9296,9439
+467,Camrosa Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,171,29488,30880,31328,37775,32221,32667
+478,Carlsbad Municipal Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,278,86080,91935,94130,96375,97239,97525
+481,Carmichael Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,429,37897,38061,38223,39285,40347,41409
+485,Carpinteria Valley Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,803,14993,15760,15920,16080,16240,16400
+2212,Castaic Lake Water Agency Santa Clarita Water Division,Table 3-1 Retail: Population - Current and Projected,No,N/A,655,122700,131500,139200,146800,154500,162200
+522,Ceres  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,565,46989,59266,71543,83820,96100,
+524,Cerritos  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,745,49091,49581.91,50077.7291,50578.50639,51084.29145,51595.13437
+547,Chino Hills  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,675,77596,89314,91137,92997,94895,
+561,Citrus Heights Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,463,65093,66720,68348,69975,71602,
+572,Cloverdale  City of,Table 3-1 Retail: Population - Current and Projected,No,N/A,281,8801,9497,9958,10452,10978,11524
+574,Clovis  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,672,108227,124259,140609,158575,178902,
+575,Coachella  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,720,40947,55783,71278,91078,116377,
+577,Coachella Valley Water District,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,814,216861,282900,348900,414800,480200,527100
+583,Coastside County Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,322,16668,16848,16873,16886,18363,19840
+596,Colton  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,286,45496,48429,51440,54638,58035,61643
+607,Compton  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,684,98119,99521,100923,102325,103727,
+613,Contra Costa Water District,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,837,199680,202970,217710,232600,248420,264750
+624,Corona  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,468,167764,170100,172900,176100,179600,182800
+649,Crescent City,Table 3-1 Retail: Population - Current and Projected,No,N/A,496,18707,18999,19301,19532,19610,
+651,Crescenta Valley Community Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,387,32385,33203,34041,34901,35782,36686
+654,Crestline Village Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,186,7588,7975,8382,8809,9259,
+664,Cucamonga Valley Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,500,200466,209707,219118,228200,228200,
+673,Daly City,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,423,105810,109249,112799,116465,120251,124159
+678,Davis  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,407,69280,72341,75286,75286,75286,75286
+699,Del Oro Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,367,9546,9823,10039,10259,10484,10714
+727,Desert Water Agency,Table 3-1 Retail: Population - Current and Projected,No,N/A,578,98400,95000,99600,104300,108900,113100
+731,Diablo Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,530,34930,42900,51000,59000,67000,75000
+737,Dinuba  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,771,23966,27561,31695,36449,41917,48204
+759,Dublin San Ramon Services District,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,673,81873,92549,97236,101923,106610,106610
+775,East Bay Municipal Utility District,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,689,1390000,1450000,1510000,1580000,1650000,1720000
+784,East Niles Community Services District,Table 3-1 Retail: Population - Current and Projected,No,N/A,516,35364,39133,43043,47008,51077,55204
+785,East Orange County Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,747,3257,4200,4300,4350,4400,4686
+787,East Palo Alto  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,598,24424,25935,27215,28589,30062,31646
+793,East Valley Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,415,104457,124062,130391,135690,141205,146945
+794,Eastern Municipal Water District,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,783,546146,617100,699800,784100,864200,939100
+814,El Centro  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,502,44847,53176,55100,57025,58948,60993
+816,El Dorado Irrigation District,Table 3-1 Retail: Population - Current and Projected,No,N/A,590,107578,113118,118944,125069,131511,138283
+827,El Segundo  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,688,17000,17313,17654,18002,18357,
+830,El Toro Water District,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,792,48797,52743,52750,53225,53245,53196
+835,Elk Grove Water District,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,574,42867,44902,49549,50530,50604,50678
+842,Elsinore Valley Municipal Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,410,149322,169500,187800,205100,221100,238300
+851,Escondido  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,461,137941,150260,152827,157001,159541,160388
+856,Estero Municipal Improvement District,Table 3-1 Retail: Population - Current and Projected,No,N/A,475,36231,37200,37800,38400,39000,39600
+859,Eureka  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,543,27428,28543,29703,30911,32167,
+866,Fair Oaks Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,221,35114,37659,38587,39537,40510,
+867,Fairfield  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,348,102809,108622,114764,121253,128109,135353
+873,Fallbrook Public Utilities District,Table 3-1 Retail: Population - Current and Projected,No,N/A,674,33476,36061,40363,41105,41322,
+904,Folsom  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,681,63536,69196,74855,81223,88552,96787
+920,Fortuna  City Of,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,782,12154,13003,13629,13509,13109,
+924,Fountain Valley  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,748,57908,58659,59082,59678,60272,60210
+934,Fresno  City Of,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,812,525575,575034,629146,688351,753128,824000
+966,Fruitridge Vista Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,784,21427,22800,22800,22000,20200,20000
+967,Fullerton  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,749,140827,145791,152026,155464,158421,160545
+972,Galt  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,584,23556,26008,28715,31703,35003,38646
+977,Garden Grove  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,750,176649,178729,179440,180428,181002,180825
+990,Georgetown Divide Public Utility District,Table 3-1 Retail: Population - Current and Projected,No,N/A,403,8994,9453,9935,10442,10974,
+995,Gilroy  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,700,54324,61838,69197,77833,86469,95105
+1004,Glendale  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,395,196682,199606,202574,205586,208643,211745
+1005,Glendora  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,577,45367,46562,47651,48766,49907,51074
+1019,Golden Hills Community Services District,Table 3-1 Retail: Population - Current and Projected,No,N/A,529,8787,9235,9706,10201,10721,
+1029,Golden State Water Company - Artesia,Table 3-1 Retail: Population - Current and Projected,No,N/A,686,50238,50490.84,50791.38,51093.72,51397.86,51703.8
+1030,Golden State Water Company - Barstow,Table 3-1 Retail: Population - Current and Projected,No,N/A,592,31668,32519,33370,34221,35072,35923
+1031,Golden State Water Company - Bay Point,Table 3-1 Retail: Population - Current and Projected,No,N/A,583,21964,23394,24856,26415,28072,29762
+1032,Golden State Water Company - Bell-Bell Gardens,Table 3-1 Retail: Population - Current and Projected,No,N/A,687,58457,58730.55,59001.95,59274.61,59548.52,59823.71
+1034,Golden State Water Company - Claremont,Table 3-1 Retail: Population - Current and Projected,No,N/A,806,37304,37878.44,38497.81,39127.32,39767.11,40417.37
+1036,Golden State Water Company - Cordova,Table 3-1 Retail: Population - Current and Projected,No,N/A,596,44128,45639.41,47498.9,49936.12,49936.12,49936.12
+1038,Golden State Water Company - Culver City,Table 3-1 Retail: Population - Current and Projected,No,N/A,599,36321,36476.15,36691.45,36908.01,37125.86,37344.98
+1041,Golden State Water Company - Florence Graham,Table 3-1 Retail: Population - Current and Projected,No,N/A,690,65559,67486.86,69388.89,71344.53,73355.28,75422.7
+1049,Golden State Water Company - Norwalk,Table 3-1 Retail: Population - Current and Projected,No,N/A,691,45514,46154.79,46863.05,47582.18,48312.35,49053.72
+1052,Golden State Water Company - Orcutt,Table 3-1 Retail: Population - Current and Projected,No,N/A,701,31744,34265.86,34639.92,35018.06,35400.33,35786.77
+1053,Golden State Water Company - Placentia,Table 3-1 Retail: Population - Current and Projected,No,N/A,237,53865,55356.09,56502.65,57672.95,58867.49,60086.77
+1054,Golden State Water Company - San Dimas,Table 3-1 Retail: Population - Current and Projected,No,N/A,805,54731,55808.55,56125.65,56444.55,56765.26,57087.8
+1057,Golden State Water Company - Simi Valley,Table 3-1 Retail: Population - Current and Projected,No,N/A,703,45221,46200.22,46612.11,47027.68,47446.95,47869.96
+1059,Golden State Water Company - South San Gabriel,Table 3-1 Retail: Population - Current and Projected,No,N/A,709,27927,28335.29,28771.03,29213.47,29662.71,30118.86
+1060,Golden State Water Company - Southwest,Table 3-1 Retail: Population - Current and Projected,No,N/A,801,275369,282454.54,289326.35,296365.34,303575.58,310961.24
+1062,Golden State Water Company - West Orange,Table 3-1 Retail: Population - Current and Projected,No,N/A,802,112131,114538.3,115367.22,116202.15,117043.11,117890.17
+1083,Great Oaks Water Company Incorporated,Table 3-1 Retail: Population - Current and Projected,No,N/A,470,99301,106450,114113,122328,131134,140574
+1125,Hanford  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,541,55337,64003,72669,81334,90000,
+1142,Hawthorne  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,325,44504,44931,45363,45801,46244,46693
+1143,Hayward  City Of,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,815,152889,157700,164600,172000,179600,188200
+1144,Healdsburg  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,627,11667,13525,15679,16479,17320,18203
+1154,Helix Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,304,270375,277294,290253,305194,311986,318734
+1157,Hemet  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,469,31873,32600,33300,33800,34300,34600
+1165,Hesperia  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,544,92177,99716,108659,118976,129739,
+1167,Hi Desert Water District,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,347,24520,25548,26911,28435,29939,31276
+1181,Hillsborough  Town Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,662,10869,10913,10956,11000,11000,11000
+1188,Hollister  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,786,22542,25803,29477,33946,39384,
+1210,Humboldt Community Services District,Table 3-1 Retail: Population - Current and Projected,No,N/A,497,22842,23770,24736,25741,26788,
+1215,Huntington Beach  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,751,198429,203840,204330,206207,207387,209689
+1217,Huntington Park  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,668,65704,66033,66363,66694,67028,67363
+1234,Indian Wells Valley Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,721,33476,35569,36453,37359,38266,40277
+1236,Indio  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,617,75847,84634,90893,97152,103410,110162
+1238,Inglewood  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,845,84790,89890,93650,94561,95472,96384
+1245,Irvine Ranch Water District,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,586,381463,440981,467483,475346,479783,
+1270,Joshua Basin Water District,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,422,9745,10068,10469,10888,11280,11617
+1273,Jurupa Community Service District,Table 3-1 Retail: Population - Current and Projected,No,N/A,546,119034,127004,134974,142944,150914,157290
+1324,La Habra  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,754,61843,64552,65859,67144,68012,68159
+1327,La Palma  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,755,16030,16190,16352,16516,16681,16848
+1333,La Verne  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,576,31043,32216,33430,34688,35990,
+1335,Laguna Beach County Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,450,19225,19907,19915,19931,19929,19926
+1343,Lake Arrowhead Community Services District,Table 3-1 Retail: Population - Current and Projected,No,N/A,259,9587,9743,10053,10326,10577,10837
+1368,Lakeside Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,554,30986,31017,31049,31080,31110,
+1370,Lakewood  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,196,59331,60019,60177,60335,60492,
+1371,Lamont Public Utility District,Table 3-1 Retail: Population - Current and Projected,No,N/A,569,18784,19742,20749,21807,22919,
+1384,Las Virgenes Municipal Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,299,68766,71768,74901,78170,81582,85144
+1424,Lincoln  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,697,45837,53747,62153,73175,86001,102563
+1425,Lincoln Avenue Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,518,13631,13801,13972,14146,14322,14500
+1443,Livermore  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,438,28782,29213,31700,32391,32391,32391
+1450,Lodi  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,357,63719,66969.30938,70385.41721,73975.78087,77749.28916,81715.28429
+1452,Loma Linda  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,375,23298,24869,26434,28098,29866,31745
+1456,Lomita  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,478,19696,20002,20313,20628,20949,21274
+1459,Lompoc  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,658,41737,42156,43113,44092,45093,
+1464,Long Beach  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,358,481784,492689,504600,525221,537728,549920
+1473,Los Angeles City Department Of Water And Power,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,178,3987622,4026891,4168131,4210042,4351408,4441545
+1487,Los Banos  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,685,37145,45410,55515,67867,82969,101431
+1506,Lynwood  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,455,62919,64040,64625,65216,65811,66413
+1539,Manteca  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,663,72169,80900,90690,101660,113960,127740
+1546,Marin Municipal Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,678,189000,191300,195500,199800,205000,210400
+1547,Marina Coast Water District,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,412,32375,40464,56648,64635,70161,
+1554,Martinez  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,495,28471,29680,30400,31040,31840,32640
+1570,McKinleyville Community Services District,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,172,16103,16758,17439,18147,18885,19653
+1587,Menlo Park  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,175,15342,18224,21214,24204,27194,30184
+1596,Mesa Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,756,107588,108186,109971,110805,110774,110675
+1605,Mid-Peninsula Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,392,26924,27560,28259,28793,29438,30203
+1613,Millbrae  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,489,22848,24192,25571,27076,28657,30294
+1619,Milpitas  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,399,72606,82300,90400,98100,106000,109100
+1626,Mission Springs Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,503,37614,44114,50614,57114,63614,70114
+1631,Modesto  City Of,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,283,259187,274920,291686,309555,328599,348896
+1639,Monrovia  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,432,36444,37023,37572,38128,38693,39266
+1642,Monte Vista Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,567,55581,59007,60660,62309,63954,65649
+1644,Montebello Land And Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,552,26554,27173,27173,27173,27173,27173
+1650,Monterey Park  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,693,56063,58987,61699,64543,67501,70603
+1656,Morgan Hill  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,779,42382,48000,51400,54800,58200,61600
+1660,Morro Bay  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,488,10224,10244,10482,10778,11078,11381
+1663,Moulton Niguel Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,677,170326,172876,174115,175512,176539,177425
+4231,Mountain House Community Services District,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,191,14507,22281,28318,34354,40391,46427
+1671,Mountain View  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,224,75430,79010,82590,86170,89750,93330
+1718,Nevada Irrigation District,Table 3-1 Retail: Population - Current and Projected,No,N/A,346,50250,57465,65484,74409,84353,94586
+1727,Newhall County Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,656,46500,49000,52200,55500,58800,62000
+1729,Newman  City of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,582,10753,11989,13367,14904,16617,18527
+1730,Newport Beach  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,758,66219,67874,69571,71311,73093,74921
+1731,Nipomo Community Service District,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,473,12886,13172,13721,14399,15104,15827
+1732,Norco  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,493,25891,26800,27300,27800,28800,29300
+1739,North Coast County Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,194,38551,39322,40108,40911,41729,42563
+1748,North Marin Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,622,61381,62656,63929,65099,66139,67482
+1756,Norwalk  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,759,18361,18545,18730,18917,19107,19298
+1777,Oceanside  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,510,171183,176510,181489,186140,187397,188428
+1782,Oildale Mutual Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,844,33970,36776,39814,43102,46633,
+1793,Olivenhain Municipal Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,435,70522,72567,74105,75918,77276,77535
+1795,Ontario  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,545,168777,180591,202262,236647,288709,368239
+1797,Orange  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,760,138987,140203,143429,145735,146916,146795
+1803,Orangevale Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,447,16480,16974,17469,17963,18457,
+1804,Orchard Dale Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,606,25000,25500,26010,26530,27061,27602
+1821,Otay Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,369,217339,243845,255040,257278,277429,285340
+1827,Oxnard  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,214,193654,220248,229622,238996,248370,257744
+1838,Padre Dam Municipal Water District,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,531,88995,95916,99556,103195,106835,108770
+1849,Palmdale Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,352,118227,131200,137700,144300,150800,157300
+1851,Palo Alto  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,365,67400,70500,73700,77100,80800,84600
+1859,Paradise Irrigation District,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,441,25977,27125,28422,29896,31215,32013
+1866,Paramount  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,669,55302,56533,57791,59070,60392,
+1869,Park Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,549,126637,126867,127332,127797,128263,129434
+1873,Pasadena  City Of,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,446,165282,169493,173508,181466,185702,189927
+1875,Paso Robles  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,698,30522,32300,34400,37700,39900,41900
+1877,Patterson  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,331,21250,30375,36429,42483,48538,54592
+1894,Petaluma  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,850,61798,63631,66061,68490,70920,73350
+1896,Phelan Pinon Hills Community Services District,Table 3-1 Retail: Population - Current and Projected,No,N/A,431,19291,21325,24022,27081,30178,33046
+1899,Pico Rivera  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,620,39863,40934,41936,42963,44014,
+1900,Pico Water District,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,449,22799,23246,23730,24223,24727,25242
+1923,Pismo Beach  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,481,7711,7925,8146,8372,8605,
+1925,Pittsburg  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,679,67628,72000,76500,81300,86400,91600
+1927,Placer County Water Agency,Table 3-1 Retail: Population - Current and Projected,No,N/A,456,98128,103885,110387,117368,133706,141365
+1940,Pleasanton  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,228,71776,78137,81569,85217,89126,93188
+1945,Pomona  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,421,158219,167942,178264,189219,200848,213192
+1953,Port Hueneme  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,780,21923,22138,22151,22165,22178,22342
+1964,Poway  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,519,48773,49737,51029,52280,52375,52372
+1983,Quartz Hill Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,535,18459,23900,27000,29900,33000,
+1990,Rainbow Municipal Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,382,20279,23789,24967,26145,28219,28336
+2000,Rancho California Water District,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,816,148105,154222,158070,162015,166058,170201
+2035,Redlands  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,376,85276,87707,90138,92569,95000,95000
+2037,Redwood City,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,479,87023,90518,93765,97128,100614,104247
+2049,Rialto  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,377,54453,56988,60401,64018,67852,71916
+2057,Rincon Del Diablo Municipal Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,363,27476,30097,31665,32597,32554,32425
+2060,Rio Linda - Elverta Community Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,557,14813,23976,28538,33586,37922,
+2063,Rio Vista  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,522,10112,11900,13250,14600,15300,
+2083,Riverside  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,364,294526,310700,322500,334700,347300,360500
+2087,Riverside Highland Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,378,16007,16654,17625,18653,19741,20893
+2103,Rohnert Park  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,573,45465,47232,49045,51060,53232,55524
+2111,Roseville  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,266,123572,133243,144113,155983,165854,175724
+2115,Rowland Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,511,55038,62090,67905,74485,77747,81175
+2118,Rubidoux Community Service District,Table 3-1 Retail: Population - Current and Projected,No,N/A,717,33441,35211,37686,40160,42635,45110
+2119,Rubio Canyon Land And Water Association,Table 3-1 Retail: Population - Current and Projected,No,N/A,485,9182,9297,9414,9532,9652,9773
+2130,Sacramento  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,326,480105,528866,560278,600339,640381,695830
+2132,Sacramento County Water Agency,Table 3-1 Retail: Population - Current and Projected,No,N/A,414,165895,196560,230619,267121,306068,347454
+2140,Sacramento Suburban Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,533,173380,184385,187987,190319,190659,190659
+2150,San Bernardino  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,379,199657,206173,212990,220031,227306,234821
+2157,San Bruno  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,180,44409,48600,51200,53400,55800,56860
+2158,San Buenaventura  City Of (Ventura),Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,274,110007,115487,118647,121895,125232,128661
+2159,San Clemente  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,761,51385,52291,52403,52982,53120,53062
+2160,San Diego  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,487,1329211,1404532,1472707,1540881,1609056,1642658
+2162,San Dieguito Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,537,37168,38212,38759,39306,39853,
+2163,San Fernando  City Of,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,517,24558,25003,25456,25917,26387,26865
+3104,San Francisco  City And County,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,808,859276,892168,936568,983568,1034268,1087468
+2165,San Gabriel County Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,570,39238,40487,41502,42542,43608,44701
+2167,San Gabriel Valley Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,445,256756,263470,269946,276423,282899,289375
+2166,San Gabriel Valley Water Company   Fontana Division,Table 3-1 Retail: Population - Current and Projected,No,N/A,229,223307,223988,233511,247396,259765,271690
+2169,San Jacinto  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,287,17961,18877,19840,20852,21916,23000
+2174,San Jose  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,600,113648,126806,140159,154515,169655,185449
+2175,San Jose Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,676,982750,1034396,1087273,1142484,1201289,1262356
+2177,San Juan Capistrano  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,795,39047,41991,42026,42132,42162,42119
+2179,San Juan Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,464,29452,30083,30728,31386,32058,32745
+2182,San Luis Obispo  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,603,45802,48826,51317,53934,56686,
+2207,Santa Ana  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,762,335299,336975,338660,340354,342055,343766
+2209,Santa Barbara  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,345,93532,95279,97026,98773,100519,
+2213,Santa Cruz  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,804,95251,99403,103620,107989,112390,
+2214,Santa Fe Irrigation District,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,332,19603,20106,20622,20947,21193,21569
+2217,Santa Margarita Water District,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,798,156949,169628,187826,194951,199028,200026
+2218,Santa Maria  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,307,102087,108839,117583,126327,135071,141529
+2220,Santa Monica  City Of,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,800,93308,93868,94431,94998,95568,96141
+2224,Santa Rosa  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,291,173071,189053,205036,221018,237000,237000
+2237,Scotts Valley Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,504,10774,11383,11655,11927,12198,12470
+2241,Seal Beach  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,764,23706,24086,24089,24302,24349,24327
+2260,Shafter  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,211,19347,21889,24168,26683,29460,32526
+2273,Shasta Lake  City Of,Table 3-1 Retail: Population - Current and Projected,Yes,Yes,810,10020,10531,11068,11633,12226,12850
+2290,Sierra Madre  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,482,11133,11345,11561,11780,12004,12233
+2323,Soledad  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,645,16455,17318.5376,18227.39255,19183.94307,20190.69214,
+2326,Sonoma  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,660,11147,11375,11642,11865,12130,12430
+2330,Soquel Creek Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,560,40234,41517,41938,43481,45314,
+2334,South Coast Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,765,35004,37062,37226,38060,38298,38268
+2341,South Gate  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,547,79983,81583,83214,84879,86576,88308
+2345,South Pasadena  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,661,24040,24157,24281,24405,24530,24656
+2348,South Tahoe Public Utility District,Table 3-1 Retail: Population - Current and Projected,No,N/A,467,29236,29851,30405,30990,31575,
+2370,Stallion Springs Community Services District,Table 3-1 Retail: Population - Current and Projected,No,N/A,595,2782,2924,3073,3230,3395,
+2381,Stockton  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,411,170417,181862,194076,207110,221019,235862
+2401,Suburban Water Systems - San Jose Hills,Table 3-1 Retail: Population - Current and Projected,No,N/A,492,178792,178792,178792,178792,178792,178792
+2402,Suburban Water Systems - Whittier/La Mirada,Table 3-1 Retail: Population - Current and Projected,No,N/A,499,120710,120710,120710,120710,120710,120710
+2405,Suisun - Solano Water Authority,Table 3-1 Retail: Population - Current and Projected,No,N/A,708,28994,29858,30779,31687,32695,33772
+2419,Sunny Slope Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,556,30700,30800,30900,31000,31100,
+2424,Sunnyslope Community Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,790,19380,23619,28395,34205,41275,
+2425,Sunnyvale  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,649,148028,154671,161314,167957,174600,181243
+2437,Sweetwater Authority,Table 3-1 Retail: Population - Current and Projected,No,N/A,453,188296,191244,194318,200286,213907,222966
+2444,Tahoe City Public Utilities District,Table 3-1 Retail: Population - Current and Projected,No,N/A,612,5741,5816,5891,5966,6041,
+2451,Tehachapi  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,651,8815,9311,9834,10387,10971,
+2469,Thousand Oaks  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,389,53347,53723,54101,54482,54866,55252
+2487,Torrance  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,659,105358,108217,111237,114341,117532,120812
+2490,Trabuco Canyon Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,766,12712,13200,14115,14735,15876,15861
+2496,Tracy  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,401,85707,91601,96542,101483,106423,111364
+2512,Truckee - Donner Public Utilities District,Table 3-1 Retail: Population - Current and Projected,No,N/A,540,16211,17898,19761,21818,24089,
+2516,Tulare  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,712,62363,71249,81401,93000,106252,121391
+2523,Tuolumne Utilities District,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,789,30794.2,34696.4,39086.7,44025.8,49581.6,51745.5
+2524,Turlock  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,406,71043,79016,87883,97746,108715,120915
+2528,Tustin  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,767,68088,68238,68388,68538,68689,68840
+2530,Twentynine Palms Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,351,14586,24328,27411,30494,33578,36661
+2536,Ukiah  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,179,16073,16893,17754,18660,19612,20612
+2541,Upland  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,568,75787,76700,77867,79033,80200,
+2597,Vacaville  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,621,89627,92464,95964,99764,103964,108264
+2601,Valencia Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,657,97300,99600,119700,139800,155900,155900
+2602,Vallecitos Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,512,93897,105889,115368,117002,118690,
+2604,Valley Center Municipal Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,848,25394,30571,34312,35300,35514,36361
+2605,Valley County Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,433,55703,56556,57504,58468,59449,60445
+2610,Valley Of The Moon Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,360,23782,24873,25229,25586,25943,26300
+2618,Valley Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,476,9900,9940,9980,10020,10060,10100
+2626,Vaughn Water Company,Table 3-1 Retail: Population - Current and Projected,No,N/A,275,32257,38400,43100,47750,52400,
+2629,Ventura County Waterworks District No 01 - Moorpark,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,505,35782,38000,40000,41700,43300,45000
+2631,Ventura County Waterworks District No 08 - Simi Valley,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,454,97292,98708,100145,101603,103082,104583
+2633,Vernon  City Of,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,480,100,100,100,100,100,100
+2635,Victorville Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,394,128005,139151,155657,172143,188896,204986
+2649,Vista Irrigation District,Table 3-1 Retail: Population - Current and Projected,No,N/A,514,127699,129618,137042,147504,150202,158627
+2661,Walnut Valley Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,550,102622,106213.4078,109930.877,113778.4577,117760.7037,
+2669,Watsonville  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,402,65966,68957,72093,75382,78833,
+2679,West Kern Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,548,20591,21006,21430,21862,22302,22752
+2689,West Valley Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,380,80161,86246,92793,99836,107415,115568
+2691,Westborough Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,471,12481,12791,13101,13411,13721,14020
+2697,Western Municipal Water District Of Riverside,Table 3-1 Retail: Population - Current and Projected,No,N/A,362,94107,99584,114584,123519,132341,140371
+2704,Westminister  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,390,93785,94009,94118,94398,94624,94531
+2723,Whittier  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,354,56200,56900,57600,58200,58800,59500
+2751,Windsor  Town Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,521,27486,29000,30150,31400,32650,34000
+2766,Woodland  City Of,Table 3-1 Retail: Population - Current and Projected,No,N/A,327,57525,61226,65510,70095,75000,80160
+2782,Yorba Linda Water District,Table 3-1 Retail: Population - Current and Projected,Under Review,N/A,397,75773,76998,77840,78961,79640,79926
+2790,Yuba City,Table 3-1 Retail: Population - Current and Projected,No,N/A,605,71070,82390,95513,110725,128361,148806
+2793,Yucaipa Valley Water District,Table 3-1 Retail: Population - Current and Projected,No,N/A,416,44745,47809,51676,55976,60558,65410

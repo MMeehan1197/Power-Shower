@@ -1,0 +1,454 @@
+ORG_ID,WATER_SUPPLIER_NAME,WORKSHEET_NAME,REVIEWED_BY_DWR,REQUIREMENTS_ADDRESSED,WP_WUEDATA_PLAN_ID,PUBLIC_WATER_SYSTEM_NUMBER,PUBLIC_WATER_SYSTEM_NAME,NUMBER_MUNICIPAL_CONNECTIONS,VOLUME_OF_WATER_SUPPLIED_AF
+13,Adelanto  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,614,CA3610001,City of Adelanto,8165,4049
+23,Alameda County Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,368,CA0110001,Alameda County Water District,83232,38579
+30,Alhambra  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,580,CA1910001,City of Alhambra,18558,9972
+55,Amador Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,477,CA0300002,Lake Camanche Village,730,152
+55,Amador Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,477,CA0310002,Amador Water System (AWS),3748,2985
+55,Amador Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,477,CA0310012,Central Amador Water Project (CAWP),2398,587
+55,Amador Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,477,CA0310019,La Mel Heights,57,12
+57,American Canyon  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,173,CA2810005,City of American Canyon,5518,3014
+64,Anaheim  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,Advisory Letter Sent,741,CA3010001,City of Anaheim,63816,62053
+82,Antioch  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,231,CA0710001,City of Antioch,31798,13874.44197
+87,Apple Valley Ranchos Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,353,CA3610003,Liberty Utilities - Apple Valley,19921,10114
+93,Arcadia  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,343,CA1910003,City of Arcadia,14264,14692
+94,Arcata  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,341,CA1210021,Jacoby Creek Water District,326,65.61896001
+94,Arcata  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,341,CA1210001,City of Arcata,5934,1914.816223
+99,Arroyo Grande  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,539,CA4010001,City of Arroyo Grande,6605,2239
+107,Atascadero Mutual Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,462,CA4010002,Atascadero Mutual Water Company,10937,4416.129616
+117,Azusa  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,604,CA1910007,City of Azusa (Azusa Light & Water),22957,17047
+124,Bakman Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,213,CA1010001,Bakman Water Company,2460,3145.610046
+129,Banning  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,459,CA3310006,City of Banning,10648,6709
+170,Bellflower - Somerset Mutual Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,538,CA1910013,Bellflower-Somerset Mutual Water Company,6990,5000
+178,Benicia  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,349,CA4810001,City of Benicia,9750,4189
+193,Beverly Hills  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,498,CA1910156,City of Beverly Hills,10752,10432
+197,Big Bear Community Services District,Table 2-1 Retail Only: Public Water Systems,No,N/A,400,CA3610008,Big Bear City Community Services District,6040,890
+198,Big Bear Lake  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,601,CA3610022,Sugarloaf/Erwin Lake,3993,455
+198,Big Bear Lake  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,601,CA3610044,Big Bear Lake/Moonridge,10739,1527
+198,Big Bear Lake  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,601,CA3600283,Lake William,124,25
+198,Big Bear Lake  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,601,CA3600395,Big Bear Shores RV Park,1,15
+198,Big Bear Lake  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,601,CA3610061,Fawnskin,720,73
+262,Brawley  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,448,CA1310001,City of Brawley,5490,4719.949513
+263,Brea  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,742,CA3010002,City of Brea,11863,10733
+264,Brentwood  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,425,CA0710004,City of Brentwood,18417,9317.143513
+283,Buena Park  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,743,CA3010003,City of Buena Park,20422,13430
+285,Burbank  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,466,CA1910179,"Burbank, City of",26661,15042
+286,Burlingame  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,520,CA4110003,City of Burlingame,9137,3937.383112
+351,Calaveras County Water District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,280,CA0510019,Wallace Community Services District,103,44.96198904
+351,Calaveras County Water District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,280,CA0510016,CCWD Ebbetts Pass Improvement District,6027,1176.686061
+351,Calaveras County Water District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,280,CA0510004,C.C.W.D Sheep Ranch,51,7.247491965
+351,Calaveras County Water District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,280,CA0510005,C.C.W.D. West Point,582,140.745217
+351,Calaveras County Water District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,280,CA0510006,C.C.W.D Jenny Lind,3756,3070.571333
+351,Calaveras County Water District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,280,CA0510017,CCWD Copper Cove,2556,1655.549496
+368,California American Water Company - Los Angeles Division,Table 2-1 Retail Only: Public Water Systems,No,N/A,509,CA1910052,CAL/AM WATER COMPANY -BALDWIN HILLS,6243,2600
+368,California American Water Company - Los Angeles Division,Table 2-1 Retail Only: Public Water Systems,No,N/A,509,CA1910186,CAL/AM WATER COMPANY - DUARTE,7469,4775
+368,California American Water Company - Los Angeles Division,Table 2-1 Retail Only: Public Water Systems,No,N/A,509,CA1910139,CAL/AM WATER COMPANY - SAN MARINO,14126,8569
+369,California American Water Company - Monterey District,Table 2-1 Retail Only: Public Water Systems,No,N/A,585,CA2701202,Cal Am Water - Chualar,,
+369,California American Water Company - Monterey District,Table 2-1 Retail Only: Public Water Systems,No,N/A,585,CA2701882,Cal Am Water - Bishop,,
+369,California American Water Company - Monterey District,Table 2-1 Retail Only: Public Water Systems,No,N/A,585,CA2710006,Cal Am Water - Ambler Park,40593,10021
+369,California American Water Company - Monterey District,Table 2-1 Retail Only: Public Water Systems,No,N/A,585,CA2701466,Ryan Ranch WS,,
+369,California American Water Company - Monterey District,Table 2-1 Retail Only: Public Water Systems,No,N/A,585,CA2702004,Ralph Lane WS,,
+369,California American Water Company - Monterey District,Table 2-1 Retail Only: Public Water Systems,No,N/A,585,CA2701257,Garrapata WC INC,,
+369,California American Water Company - Monterey District,Table 2-1 Retail Only: Public Water Systems,No,N/A,585,CA2710021,Cal Am Water - Toro,,
+369,California American Water Company - Monterey District,Table 2-1 Retail Only: Public Water Systems,No,N/A,585,CA2710004,Cal Am Water - Monterey,,
+369,California American Water Company - Monterey District,Table 2-1 Retail Only: Public Water Systems,No,N/A,585,CA2710022,Cal Am Water - Hidden Hills,,
+372,California American Water Company - Sacramento District,Table 2-1 Retail Only: Public Water Systems,No,N/A,683,CA3410017,Parkway,,
+372,California American Water Company - Sacramento District,Table 2-1 Retail Only: Public Water Systems,No,N/A,683,CA3410027,Security Park,,
+372,California American Water Company - Sacramento District,Table 2-1 Retail Only: Public Water Systems,No,N/A,683,CA3410047,Walnut Grove,,
+372,California American Water Company - Sacramento District,Table 2-1 Retail Only: Public Water Systems,No,N/A,683,CA3110150,West Placer,,
+372,California American Water Company - Sacramento District,Table 2-1 Retail Only: Public Water Systems,No,N/A,683,CA5700712,Dunnigan,,
+372,California American Water Company - Sacramento District,Table 2-1 Retail Only: Public Water Systems,No,N/A,683,CA3410012,Isleton,,
+372,California American Water Company - Sacramento District,Table 2-1 Retail Only: Public Water Systems,No,N/A,683,CA3410013,Lincoln Oaks,,
+372,California American Water Company - Sacramento District,Table 2-1 Retail Only: Public Water Systems,No,N/A,683,CA3410045,Arden,,
+372,California American Water Company - Sacramento District,Table 2-1 Retail Only: Public Water Systems,No,N/A,683,CA3410031,Antelope,58941,29616
+372,California American Water Company - Sacramento District,Table 2-1 Retail Only: Public Water Systems,No,N/A,683,CA3410010,Suburban-Rosemont,,
+373,California American Water Company - San Diego District,Table 2-1 Retail Only: Public Water Systems,No,N/A,508,CA3710001,California-American Water Company San Diego District,21156,9298
+376,California American Water Company - Ventura District,Table 2-1 Retail Only: Public Water Systems,No,N/A,408,CA5610081,,,
+376,California American Water Company - Ventura District,Table 2-1 Retail Only: Public Water Systems,No,N/A,408,CA5610040,Cal American Ventura District,21090,14016
+384,California Water Service Company Antelope Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,217,CA1500333,Fremont Valley District,76,14
+384,California Water Service Company Antelope Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,217,CA1910243,Leona Valley District,418,163
+384,California Water Service Company Antelope Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,217,CA1910242,Lake Hughes District,201,41
+384,California Water Service Company Antelope Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,217,CA1910010,Lancaster District,668,322
+386,California Water Service Company Bakersfield,Table 2-1 Retail Only: Public Water Systems,No,N/A,285,CA1510055,North Garden,6962,6353
+386,California Water Service Company Bakersfield,Table 2-1 Retail Only: Public Water Systems,No,N/A,285,CA1510003,Bakersfield,62654,48680
+387,California Water Service Company Bear Gulch,Table 2-1 Retail Only: Public Water Systems,No,N/A,277,CA4110006,Bear Gulch,18560,10401
+388,California Water Service Company Chico District,Table 2-1 Retail Only: Public Water Systems,No,N/A,288,CA1110002,Hamilton City,631,363
+388,California Water Service Company Chico District,Table 2-1 Retail Only: Public Water Systems,No,N/A,288,CA0410002,Chico,27775,17864
+390,"California Water Service Company Dixon, City of",Table 2-1 Retail Only: Public Water Systems,No,N/A,289,CA4810002,Dixon,2847,1151
+391,California Water Service Company Dominguez,Table 2-1 Retail Only: Public Water Systems,No,N/A,290,CA1910033,Dominguez,32817,31291
+392,California Water Service Company East Los Angeles,Table 2-1 Retail Only: Public Water Systems,No,N/A,301,CA1910036,East Los Angeles,26096,14268
+396,California Water Service Company Hermosa/Redondo,Table 2-1 Retail Only: Public Water Systems,No,N/A,302,CA1910134,Hermosa Redondo,26386,10765
+397,California Water Service Company Kern River Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,303,CA1500407,Split Mountain,161,27
+397,California Water Service Company Kern River Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,303,CA1510026,Upper Bodfish,208,48
+397,California Water Service Company Kern River Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,303,CA1510039,South Lake Water,919,145
+397,California Water Service Company Kern River Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,303,CA1510043,Onyx Water,198,35
+397,California Water Service Company Kern River Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,303,CA1510056,Lower Bodfish,509,91
+397,California Water Service Company Kern River Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,303,CA1510049,Lakeland Water,204,32
+397,California Water Service Company Kern River Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,303,CA1510033,Kernville Domestic Water Co.,1857,310
+398,California Water Service Company King City,Table 2-1 Retail Only: Public Water Systems,No,N/A,306,CA2710009,King City,2551,1441
+401,California Water Service Company Livermore,Table 2-1 Retail Only: Public Water Systems,No,N/A,309,CA0110003,Livermore,18123,7255
+402,California Water Service Company Los Altos/Suburban,Table 2-1 Retail Only: Public Water Systems,No,N/A,310,CA4310001,Los Altos Suburban,18479,10188
+405,California Water Service Company Marysville,Table 2-1 Retail Only: Public Water Systems,No,N/A,311,CA5810001,Marysville,3678,1741
+420,California Water Service Company Mid Peninsula,Table 2-1 Retail Only: Public Water Systems,No,N/A,312,CA4110007,San Carlos,10387,3128
+420,California Water Service Company Mid Peninsula,Table 2-1 Retail Only: Public Water Systems,No,N/A,312,CA4110008,San Mateo,25372,9560
+412,California Water Service Company Oroville,Table 2-1 Retail Only: Public Water Systems,No,N/A,313,CA0410005,Oroville,3483,2322
+413,California Water Service Company Palos Verdes,Table 2-1 Retail Only: Public Water Systems,No,N/A,315,CA1910104,Palos Verdes,23966,16658
+416,California Water Service Company Redwood Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,316,CA4900785,Noel Heights,48,7
+416,California Water Service Company Redwood Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,316,CA1710005,Lucerne Water,1190,196
+416,California Water Service Company Redwood Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,316,CA4900546,Hawkins Water,50,8
+416,California Water Service Company Redwood Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,316,CA2110007,Coast Springs Water,250,20
+416,California Water Service Company Redwood Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,316,CA4910018,Armstrong Valley Water,268,54
+416,California Water Service Company Redwood Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,316,CA4900514,Rancho del Paradiso,58,5
+417,California Water Service Company Salinas District,Table 2-1 Retail Only: Public Water Systems,No,N/A,317,CA2710010,Salinas,24324,12949
+417,California Water Service Company Salinas District,Table 2-1 Retail Only: Public Water Systems,No,N/A,317,CA2701929,Country Meadows Mutual,107,65
+417,California Water Service Company Salinas District,Table 2-1 Retail Only: Public Water Systems,No,N/A,317,CA2710012,Salinas Hills,1639,1093
+417,California Water Service Company Salinas District,Table 2-1 Retail Only: Public Water Systems,No,N/A,317,CA2710019,Oak Hills,880,305
+417,California Water Service Company Salinas District,Table 2-1 Retail Only: Public Water Systems,No,N/A,317,CA2710013,Las Lomas,610,246
+421,California Water Service Company Selma,Table 2-1 Retail Only: Public Water Systems,No,N/A,318,CA1010024,Selma,6216,3952
+422,California Water Service Company South San Francisco,Table 2-1 Retail Only: Public Water Systems,No,N/A,319,CA4110009,South San Francisco,16302,7064
+424,California Water Service Company Stockton,Table 2-1 Retail Only: Public Water Systems,No,N/A,320,CA3910001,Stockton,42646,22090
+427,California Water Service Company Visalia,Table 2-1 Retail Only: Public Water Systems,No,N/A,321,CA5410041,Tulco Water System,179,70
+427,California Water Service Company Visalia,Table 2-1 Retail Only: Public Water Systems,No,N/A,321,CA5400935,Mullen Water System,42,21
+427,California Water Service Company Visalia,Table 2-1 Retail Only: Public Water Systems,No,N/A,321,CA5410016,Visalia,41899,24762
+428,California Water Service Company Westlake,Table 2-1 Retail Only: Public Water Systems,No,N/A,323,CA5610016,Westlake,6915,6295
+429,California Water Service Company Willows,Table 2-1 Retail Only: Public Water Systems,No,N/A,324,CA1110003,Willows,2371,1044
+467,Camrosa Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,171,CA5610063,Camrosa Water District,8121,8402
+478,Carlsbad Municipal Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,278,CA3710005,Carlsbad Municipal Water District,28521,14029
+481,Carmichael Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,429,CA3410004,Carmichael Water District,11781,7141
+485,Carpinteria Valley Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,803,CA4210001,Carpinteria Valley Water District,4492,4137
+2212,Castaic Lake Water Agency Santa Clarita Water Division,Table 2-1 Retail Only: Public Water Systems,No,N/A,655,CA1910017,CLWA SCWD,30681,21783
+522,Ceres  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,565,CA5010028,City of Ceres,11646,6458.47448
+524,Cerritos  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,745,CA1910019,City of Cerritos,15333,10795
+547,Chino Hills  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,675,CA3610036,"Chino Hills, City of",21491,16070
+561,Citrus Heights Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,463,CA3410006,Citrus Heights Water District,19785,9974
+572,Cloverdale  City of,Table 2-1 Retail Only: Public Water Systems,No,N/A,281,CA4910002,City of Cloverdale,3342,1055.69742
+574,Clovis  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,672,CA1010003,City of Clovis,32892,20030
+575,Coachella  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,720,CA3310007,Coachella Water Authority,8037,6530.593345
+577,Coachella Valley Water District,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,814,CA1310011,CVWD - ID No. 11,2740,1357
+577,Coachella Valley Water District,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,814,CA3310048,CVWD - ID No. 8,1542,2567
+577,Coachella Valley Water District,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,814,CA3310001,CVWD - Cove Community,103076,89050
+583,Coastside County Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,322,CA4110011,Coastside County Water District,7360,2043.879308
+596,Colton  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,286,CA3610014,City of Colton,9955,9008
+607,Compton  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,684,CA1910026,"Compton-City, Water Department",14318,7751.39
+613,Contra Costa Water District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,837,CA0710003,Contra Costa Water District - Retail Water System,61260,24900
+624,Corona  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,468,CA3310037,City of Corona,42003,30977
+649,Crescent City,Table 2-1 Retail Only: Public Water Systems,No,N/A,496,CA0810001,Crescent City,4165,2028.534869
+651,Crescenta Valley Community Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,387,CA1910028,Crescenta Valley Water District,8102,3647
+654,Crestline Village Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,186,CA3610015,Crestline Village Water District,4952,578.8314909
+664,Cucamonga Valley Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,500,CA3610018,Cucamonga Valley Water District,48095,42678
+673,Daly City,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,423,CA4110013,City of Daly City,22764,7583.221877
+678,Davis  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,407,CA5710001,City of Davis,16755,9212
+699,Del Oro Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,367,CA0410011,DEL ORO WATER CO.-PARADISE PINES,4808,933.7878693
+727,Desert Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,578,CA3310005,Desert Water Agency,22069,26796
+731,Diablo Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,530,CA0710007,Diablo Water District,11149,4578.780672
+737,Dinuba  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,771,CA5410002,City of Dinuba Water System,5742,4842.705027
+759,Dublin San Ramon Services District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,673,CA0110009,Dublin San Ramon Services District,21407,7445
+775,East Bay Municipal Utility District,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,689,CA0110005,East Bay Municipal Utility District,388641,143562.5736
+784,East Niles Community Services District,Table 2-1 Retail Only: Public Water Systems,No,N/A,516,CA1510006,East Niles CSD,7822,6752
+785,East Orange County Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,747,CA3010093,East Orange County Water District,1207,897
+787,East Palo Alto  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,598,CA4110024,City of East Palo Alto,5179,1758
+793,East Valley Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,415,CA3610064,East Valley Water District,21263,16942
+794,Eastern Municipal Water District,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,783,CA3310009,Eastern Municipal Water District,147300,78937
+814,El Centro  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,502,CA1310004,City of El Centro,9906,7177
+816,El Dorado Irrigation District,Table 2-1 Retail Only: Public Water Systems,No,N/A,590,CA0910018,Outingdale,191,14
+816,El Dorado Irrigation District,Table 2-1 Retail Only: Public Water Systems,No,N/A,590,CA0910017,Strawberry,140,24
+816,El Dorado Irrigation District,Table 2-1 Retail Only: Public Water Systems,No,N/A,590,CA0910001,El Dorado Irrigation District,46684,22543
+827,El Segundo  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,688,CA1910040,City of El Segundo,4767,8025
+830,El Toro Water District,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,792,CA3010079,El Toro Water District,9818,9047
+835,Elk Grove Water District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,574,CA3410008,Elk Grove Water Service,11576,5311
+842,Elsinore Valley Municipal Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,410,CA3310012,Elsinore Valley Municipal Water District,42691,21070
+842,Elsinore Valley Municipal Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,410,CA3310046,Farm Mutual Water Company,1235,539
+851,Escondido  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,461,CA3710006,City of Escondido,26565,21879
+856,Estero Municipal Improvement District,Table 2-1 Retail Only: Public Water Systems,No,N/A,475,CA4110021,Estero Municipal Improvement District,8420,4459.094046
+859,Eureka  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,543,CA1210004,City of Eureka,10004,3173.230037
+866,Fair Oaks Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,221,CA3410009,Fair Oaks Water District,13894,8130
+867,Fairfield  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,348,CA4810003,City of Fairfield,30716,17643.03625
+873,Fallbrook Public Utilities District,Table 2-1 Retail Only: Public Water Systems,No,N/A,674,CA3710008,Fallbrook Public Utility District,9215,11848.7
+904,Folsom  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,681,CA3410014,City of Folsom Main,19565,16489
+904,Folsom  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,681,CA3410030,City of Folsom Ashland,1032,962
+920,Fortuna  City Of,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,782,CA1210006,City of Fortuna,4404,1212.210701
+924,Fountain Valley  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,748,CA3010069,City of Fountain Valley,17131,10775
+934,Fresno  City Of,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,812,CA1010007,City of Fresno,133615,111706
+966,Fruitridge Vista Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,784,CA,Fruitridge Vista Water Company,4699,14902
+967,Fullerton  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,749,CA3010010,City of Fullerton,32000,27244
+972,Galt  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,584,CA3410011,City of Galt,7565,4163
+977,Garden Grove  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,750,CA3010062,City of Garden Grove,33647,24048.8
+990,Georgetown Divide Public Utility District,Table 2-1 Retail Only: Public Water Systems,No,N/A,403,CA0910013,Georgetown Divide PUD,3663,1128
+995,Gilroy  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,700,CA4310004,City of Gilroy,14232,6143.913476
+1004,Glendale  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,395,CA1910043,Glendale Water & Power,34011,22823
+1005,Glendora  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,577,CA1910044,City of Glendora,13381,11303
+1019,Golden Hills Community Services District,Table 2-1 Retail Only: Public Water Systems,No,N/A,529,CA1510045,Golden Hills Community Services District,2819,1032
+1029,Golden State Water Company - Artesia,Table 2-1 Retail Only: Public Water Systems,No,N/A,686,CA1910004,Golden State Water Company - Artesia,10799,5001.14
+1030,Golden State Water Company - Barstow,Table 2-1 Retail Only: Public Water Systems,No,N/A,592,CA3610043,Golden State Water Company - Barstow,9277,5253.61
+1031,Golden State Water Company - Bay Point,Table 2-1 Retail Only: Public Water Systems,No,N/A,583,CA0710002,Golden State Water Company - Bay Point,5108,1634
+1032,Golden State Water Company - Bell-Bell Gardens,Table 2-1 Retail Only: Public Water Systems,No,N/A,687,CA1910011,"Golden State Water Company - Bell, Bell Gardens",7512,4631.31
+1034,Golden State Water Company - Claremont,Table 2-1 Retail Only: Public Water Systems,No,N/A,806,CA1910024,Golden State Water Company - Claremont,11311,8037.53
+1036,Golden State Water Company - Cordova,Table 2-1 Retail Only: Public Water Systems,No,N/A,596,CA3410015,Golden State Water Company - Cordova,15153,11593.06
+1038,Golden State Water Company - Culver City,Table 2-1 Retail Only: Public Water Systems,No,N/A,599,CA1910030,Golden State Water Company - Culver City,9757,4940.73
+1041,Golden State Water Company - Florence Graham,Table 2-1 Retail Only: Public Water Systems,No,N/A,690,CA1910077,Golden State Water Company - Florence/Graham,9822,4704.47
+1049,Golden State Water Company - Norwalk,Table 2-1 Retail Only: Public Water Systems,No,N/A,691,CA1910098,GSWC - Norwalk,9519,4250.91
+1052,Golden State Water Company - Orcutt,Table 2-1 Retail Only: Public Water Systems,No,N/A,701,CA4210016,Golden State Water Company - Orcutt,11574,5588.37
+1053,Golden State Water Company - Placentia,Table 2-1 Retail Only: Public Water Systems,No,N/A,237,CA3010070,Golden State Water Company - Yorba Linda,1697,331
+1053,Golden State Water Company - Placentia,Table 2-1 Retail Only: Public Water Systems,No,N/A,237,CA3010035,Golden State Water Company - Placentia,11422,5986
+1054,Golden State Water Company - San Dimas,Table 2-1 Retail Only: Public Water Systems,No,N/A,805,CA1910142,Golden State Water Company - San Dimas,16245,9545.91
+1057,Golden State Water Company - Simi Valley,Table 2-1 Retail Only: Public Water Systems,No,N/A,703,CA5610059,Golden State Water Company - Simi,13466,5340.32
+1059,Golden State Water Company - South San Gabriel,Table 2-1 Retail Only: Public Water Systems,No,N/A,709,CA1910223,Golden State Water Company - South San Gabriel,5016,2404.83
+1060,Golden State Water Company - Southwest,Table 2-1 Retail Only: Public Water Systems,No,N/A,801,CA1910155,Golden State Water Company - Southwest,52996,26938.09
+1062,Golden State Water Company - West Orange,Table 2-1 Retail Only: Public Water Systems,No,N/A,802,CA3010022,Golden State Water Company - West Orange,27862,13441
+1083,Great Oaks Water Company Incorporated,Table 2-1 Retail Only: Public Water Systems,No,N/A,470,CA4310022,Great Oaks Water Company,20856,8479.33713
+1125,Hanford  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,541,CA1610003,City of Hanford,16777,11640
+1142,Hawthorne  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,325,CA1910047,Hawthorne,6191,4064
+1143,Hayward  City Of,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,815,CA0110006,City of Hayward,34000,15230.8904
+1144,Healdsburg  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,627,CA4910005,City of Healdsburg,4433,1619
+1154,Helix Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,304,CA3710010,Helix Water District,56008,31145
+1157,Hemet  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,469,CA3310016,City of Hemet,9304,3750
+1165,Hesperia  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,544,CA3610024,Hesperia Water District,26370,12668
+1167,Hi Desert Water District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,347,CA3610073,HI DESERT WD,9965,2838
+1181,Hillsborough  Town Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,662,CA4110016,Town of Hillsborough,4218,2816
+1188,Hollister  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,786,CA3510001,City of Hollister,6324,2994
+1210,Humboldt Community Services District,Table 2-1 Retail Only: Public Water Systems,No,N/A,497,CA1210009,Humboldt Community Services District,8868,1537.512813
+1215,Huntington Beach  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,751,CA3010053,City of Huntington Beach,53091,27996
+1217,Huntington Park  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,668,CA1910049,City of Huntington Park,6600,4537
+1234,Indian Wells Valley Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,721,CA1510017,Indian Wells Valley Water District,11677,6145
+1236,Indio  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,617,CA3310020,INDIO WATER AUTHORITY,22560,18208
+1238,Inglewood  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,845,CA1910051,Inglewood,15952,9554
+1245,Irvine Ranch Water District,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,586,CA3010092,Irvine Ranch Water District,111511,90403
+1270,Joshua Basin Water District,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,422,CA3610025,Joshua Basin Water District,4940,1369
+1273,Jurupa Community Service District,Table 2-1 Retail Only: Public Water Systems,No,N/A,546,CA3310021,Jurupa Community Services District,29669,21645
+1324,La Habra  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,754,CA3010018,City of La Habra,12548,9584
+1327,La Palma  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,755,CA3010100,City of La Palma,4323,1940
+1333,La Verne  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,576,CA1910062,La Verne Water System,8430,6568
+1335,Laguna Beach County Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,450,CA3010017,Laguna Beach County Water District,8636,3630
+1343,Lake Arrowhead Community Services District,Table 2-1 Retail Only: Public Water Systems,No,N/A,259,CA3610005,Lake Arrowhead Community Services District,8300,1271
+1368,Lakeside Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,554,CA3710013,Lakeside Water District,6842,3706.8
+1370,Lakewood  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,196,CA1910239,CITY OF LAKEWOOD,20339,6174
+1371,Lamont Public Utility District,Table 2-1 Retail Only: Public Water Systems,No,N/A,569,CA1510012,Lamont Public Utility District,3307,3225
+1384,Las Virgenes Municipal Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,299,CA1910225,Las Virgines Municipal Water DIstrict,21413,18158
+1424,Lincoln  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,697,CA0311004,City of Lincoln,18822,7629
+1425,Lincoln Avenue Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,518,CA1910063,Lincoln Avenue Water Company,4440,1864
+1443,Livermore  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,438,CA0110011,City of Livermore,10170,4554.229569
+1450,Lodi  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,357,CA3910004,City of Lodi,26357,14258
+1452,Loma Linda  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,375,CA3610013,City of Loma Linda,5331,4682
+1456,Lomita  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,478,CA1910073,City of Lomita,4242,2030
+1459,Lompoc  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,658,CA4210006,City of Lompoc,9870,4201
+1464,Long Beach  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,358,CA1910065,Long Beach Water Department,93819,55206
+1473,Los Angeles City Department Of Water And Power,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,178,CA1910067,"Los Angeles-City, Dept. of Water & Power",704176,520905
+1487,Los Banos  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,685,CA2410005,City of Los Banos,11495,6657
+1506,Lynwood  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,455,CA1910079,City of Lynwood,9013,5717
+1539,Manteca  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,663,CA3910005,"Manteca, City of",21647,12058
+1546,Marin Municipal Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,678,CA2110002,Marin Municipal Water District,61800,23726
+1547,Marina Coast Water District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,412,CA2710017,Marina Coast Water District,7500,3228.04
+1554,Martinez  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,495,CA0710006,City of Martinez,9904,3524
+1570,McKinleyville Community Services District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,172,CA1210016,McKinleyville CSD,5517,1399041524
+1587,Menlo Park  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,175,CA4110017,City of Menlo Park,4203,2709.827972
+1596,Mesa Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,756,CA3010004,Mesa Water District,23760,18002
+1605,Mid-Peninsula Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,392,CA4110001,Mid-Peninsula Water District,7977,2577.865794
+1613,Millbrae  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,489,CA4110018,City Of Millbrae,6555,2274.045897
+1619,Milpitas  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,399,CA4310005,City of Milpitas,15865,8774.035723
+1626,Mission Springs Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,503,CA3310008,Mission Springs Water District,12967,7252
+1631,Modesto  City Of,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,283,CA5010005,Salida,4399,909
+1631,Modesto  City Of,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,283,CA5010023,South Turlock,332,192
+1631,Modesto  City Of,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,283,CA5010035,Central Turlock,35,0
+1631,Modesto  City Of,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,283,CA5010031,Ceres (Walnut Manor),53,44
+1631,Modesto  City Of,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,283,CA5010033,Grayson,274,162
+1631,Modesto  City Of,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,283,CA5010029,Del Rio (Hillcrest),389,577
+1631,Modesto  City Of,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,283,CA5010034,North Turlock,52,31
+1631,Modesto  City Of,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,283,CA5010010,City of Modesto,69152,45544
+1639,Monrovia  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,432,CA1910090,"Monrovia, City of",9360,6229
+1642,Monte Vista Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,567,CA3610029,Monte Vista Water District,11975,9110
+1644,Montebello Land And Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,552,CA1910091,Montebello Land and Water Co.,3979,3137
+1650,Monterey Park  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,693,CA1910092,"Monterey Park, City of",15230,8391
+1656,Morgan Hill  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,779,CA4310006,City of Morgan Hill,13068,5846
+1660,Morro Bay  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,488,CA4010011,City of Morro Bay,5474,1074
+1663,Moulton Niguel Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,677,CA3010073,Moulton Niguel Water District,55030,26819
+4231,Mountain House Community Services District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,191,CA3910027,Mountain House Community Services District,4359,2394
+1671,Mountain View  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,224,CA4310007,City of Mountain View,17911,8870
+1718,Nevada Irrigation District,Table 2-1 Retail Only: Public Water Systems,No,N/A,346,CA3110026,NID North Auburn,2292,1510
+1718,Nevada Irrigation District,Table 2-1 Retail Only: Public Water Systems,No,N/A,346,CA2910007,NID Cascade Shores,409,81
+1718,Nevada Irrigation District,Table 2-1 Retail Only: Public Water Systems,No,N/A,346,CA5810005,Smartsville,43,11
+1718,Nevada Irrigation District,Table 2-1 Retail Only: Public Water Systems,No,N/A,346,CA2910023,Nevada ID - Lake Wildwood,3188,952
+1718,Nevada Irrigation District,Table 2-1 Retail Only: Public Water Systems,No,N/A,346,CA2910014,Nevada ID - Lake of Pines,2312,964
+1718,Nevada Irrigation District,Table 2-1 Retail Only: Public Water Systems,No,N/A,346,CA2910006,Nevada ID - Loma Rica,4888,1225
+1718,Nevada Irrigation District,Table 2-1 Retail Only: Public Water Systems,No,N/A,346,CA2910004,"Nevada ID - E. George, Banner Mountain",5503,3169
+1727,Newhall County Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,656,CA1910247,NCWD (Castaic),9731,8100
+1727,Newhall County Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,656,CA1910096,NCWD (Newhall),0,0
+1727,Newhall County Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,656,CA1910250,NCWD (Pinetree),0,0
+1727,Newhall County Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,656,CA1910255,NCWD (Tesoro),0,0
+1729,Newman  City of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,582,CA5010013,City of Newman,3321,1897.962897
+1730,Newport Beach  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,758,CA3010023,City of Newport Beach,26524,16033
+1731,Nipomo Community Service District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,473,CA4010026,Nipomo Community Services District,4300,1947.5
+1732,Norco  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,493,CA3310025,City of Norco,7500,7138.3
+1739,North Coast County Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,194,CA4110025,North Coast County Water District,11979,2355.985202
+1748,North Marin Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,622,CA2110003,North Marin Water District,20498,7829
+1756,Norwalk  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,759,CA1910191,City of Norwalk,5367,2364
+1777,Oceanside  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,510,CA3710014,City of Oceanside,43755,25073
+1782,Oildale Mutual Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,844,CA1510015,Oildale Mutual Water Company,10254,7915
+1793,Olivenhain Municipal Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,435,CA3710029,Olivenhain Municipal Water District,22295,21477
+1795,Ontario  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,545,CA3610034,City of Ontario,33720,28945
+1797,Orange  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,760,CA3010027,City of Orange,36347,28642.7
+1803,Orangevale Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,447,CA3140016,Orange Vale Water Company,5557,3256
+1804,Orchard Dale Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,606,CA1910101,Orchard Dale Water District,4252,1967
+1821,Otay Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,369,CA3710034,Otay Water District,48651,30299
+1827,Oxnard  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,214,CA5610007,City of Oxnard,41514,25806
+1838,Padre Dam Municipal Water District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,531,CA3710037,Padre Dam MWD,23379,10460
+1849,Palmdale Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,352,CA1910102,Palmdale Water District,26508,17015
+1851,Palo Alto  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,365,CA4310009,City of Palo Alto,19863,10177
+1859,Paradise Irrigation District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,441,CA0410007,Paradise Irrigation District,10546,3903
+1866,Paramount  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,669,CA1910105,City of Paramount - Public Works,7378,6316
+1869,Park Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,549,CA1910021,Compton/Willowbrook System,,
+1869,Park Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,549,CA1910161,Lynwood/Rancho Dominguez System,,
+1869,Park Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,549,,Liberty Utilities (Park Water) Corp.,27353,9787
+1869,Park Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,549,CA1910211,Bellflower/Norwalk System,,
+1873,Pasadena  City Of,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,446,CA1910124,"Pasadena-City, Water Dept.",37355,27326
+1875,Paso Robles  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,698,CA4010007,Paso Robles Water Department,10627,5153
+1877,Patterson  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,331,CA5010017,City of Patterson,6268,3216
+1894,Petaluma  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,850,CA4910006,City of Petaluma,19739,7678
+1896,Phelan Pinon Hills Community Services District,Table 2-1 Retail Only: Public Water Systems,No,N/A,431,CA3610120,Phelan Piñon Hills Community Services District,6794,2776
+1899,Pico Rivera  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,620,CA,,9391,4561
+1900,Pico Water District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,449,CA1910125,Pico Water District,5377,2755
+1923,Pismo Beach  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,481,CA4010008,City of Pismo Beach,4975,1632
+1925,Pittsburg  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,679,CA0710008,City of Pittsburg,18156,8772
+1927,Placer County Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,456,CA3110050,CWA Applegate,0,0
+1927,Placer County Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,456,CA3110124,CWA Monte Vista,0,0
+1927,Placer County Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,456,CA3110024,CWA Alta,0,0
+1927,Placer County Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,456,CA3110006,CWA Colfax,0,0
+1927,Placer County Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,456,CA3110005,CWA Auburn/Bowman,0,0
+1927,Placer County Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,456,CA3110025,CWA Foothill,0,0
+1927,Placer County Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,456,CA3110040,CWA Binachi,0,0
+1940,Pleasanton  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,228,CA0110008,City of Pleasanton,22004,11355
+1945,Pomona  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,421,CA1910126,"POMONA - CITY, WATER DEPT.",29547,22611.27
+1953,Port Hueneme  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,780,CA5610009,Port Hueneme Water Department,5835,1903
+1964,Poway  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,519,CA3710015,"Poway, City of",14136,8374
+1983,Quartz Hill Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,535,CA1910130,Quartz Hill Water District,5832,4698
+1990,Rainbow Municipal Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,382,CA3710016,Rainbow MWD,7838,20062
+2000,Rancho California Water District,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,816,CA3310038,Rancho California Water District,43764,69079
+2000,Rancho California Water District,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,816,CA3303084,Vail Lake Village Resort,300,92
+2035,Redlands  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,376,CA3610037,City of Redlands,24864,23038
+2037,Redwood City,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,479,CA4110022,City of Redwood City,23709,8877
+2049,Rialto  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,377,CA3610038,City of Rialto,11956,8771
+2057,Rincon Del Diablo Municipal Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,363,CA3710044,Rincon del Diablo Improvement District A,1070,827
+2057,Rincon Del Diablo Municipal Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,363,CA3710018,Rincon del Diablo Improvement District 1,6814,4728
+2060,Rio Linda - Elverta Community Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,557,CA3410018,Rio Linda Elverta Community Water District,4620,2109
+2063,Rio Vista  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,522,CA4810004,Rio Vista,4450,1793
+2083,Riverside  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,364,CA3310031,City of Riverside Public Utilities,64871,59525
+2087,Riverside Highland Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,378,CA3610057,Riverside Highland Water Company,4127,2964
+2103,Rohnert Park  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,573,CA4910014,City of Rohnert Park,9060,4277
+2111,Roseville  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,266,CA3110008,City of Roseville,41469,22881
+2115,Rowland Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,511,CA1910194,Rowland Water District,13794,10956
+2118,Rubidoux Community Service District,Table 2-1 Retail Only: Public Water Systems,No,N/A,717,CA3310044,Rubidoux Community Services District,6250,7801
+2119,Rubio Canyon Land And Water Association,Table 2-1 Retail Only: Public Water Systems,No,N/A,485,CA1910140,Rubio Cañon Land and Water Association,3135,1744
+2130,Sacramento  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,326,CA3410020,"Sacramento, City of",135830,86031
+2132,Sacramento County Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,414,CA3410029,Laguna Vineyard,43767,21618
+2132,Sacramento County Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,414,CA3400106,East Walnut Grove,157,64
+2132,Sacramento County Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,414,CA3410704,Mather-Sunrise,5482,3531
+2132,Sacramento County Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,414,CA3400101,Hood Water Maintenance District,81,35
+2132,Sacramento County Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,414,CA3410002,Arden Park Vista,2979,2803
+2132,Sacramento County Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,414,CA3400173,Northgate 880,262,1074
+2132,Sacramento County Water Agency,Table 2-1 Retail Only: Public Water Systems,No,N/A,414,CA3400156,Southwest Tract Water Maintenance District,30,25
+2140,Sacramento Suburban Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,533,CA3410001,Sacramento Suburban Water District,46650,27451
+2150,San Bernardino  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,379,CA3610039,City of San Bernardino,44630,35665
+2157,San Bruno  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,180,CA4110023,City of San Bruno,11425,3512.16709
+2158,San Buenaventura  City Of (Ventura),Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,274,CA5610017,City of San Buenaventura Water Department,32000,14981
+2159,San Clemente  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,761,CA3010036,City of San Clemente,17278,9310
+2160,San Diego  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,487,CA3710020,City of San Diego,279840,167112
+2162,San Dieguito Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,537,CA3710021,SAN DIEGUITO WD,11704,6109
+2163,San Fernando  City Of,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,517,CA1910143,City of San Fernando,5142,2768
+3104,San Francisco  City And County,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,808,CA3810011,SFPUC - CITY DISTRIBUTION DIVISION,173774,71570
+3104,San Francisco  City And County,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,808,CA0110018,SFPUC - PLEASANTON WELLS,1,360
+3104,San Francisco  City And County,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,808,CA0110012,SFPUC - TOWN OF SUNOL,119,60
+2165,San Gabriel County Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,570,CA1910144,San Gabriel County Water District,9115,5802
+2167,San Gabriel Valley Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,445,CA1910189,San Gabriel Valley Water Company - Montebello,1581,657
+2167,San Gabriel Valley Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,445,CA1910039,San Gabriel Valley Water Company - El Monte,45516,32189
+2166,San Gabriel Valley Water Company   Fontana Division,Table 2-1 Retail Only: Public Water Systems,No,N/A,229,CA3610041,Fontana Water Company,45045,34964
+2169,San Jacinto  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,287,CA3310032,City of San Jacinto,4139,2270
+2174,San Jose  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,600,CA,San Jose Municipal Water System*,25645,19678
+2175,San Jose Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,676,CA4310011,San Jose Water Company,225299,100990.9614
+2177,San Juan Capistrano  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,795,CA3010030,City of San Juan Capistrano,11474,8531
+2179,San Juan Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,464,CA3410021,San Juan Water District,10582,9666
+2182,San Luis Obispo  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,603,CA4010009,City of San Luis Obispo,15116,4908
+2207,Santa Ana  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,762,CA3010038,City of Santa Ana,44610,37007
+2209,Santa Barbara  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,345,CA4210010,City of Santa Barbara Water Dept.,26831,9408
+2213,Santa Cruz  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,804,CA4410010,Santa Cruz Water Department,24534,7524.913008
+2214,Santa Fe Irrigation District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,332,CA3710023,Santa Fe Irrigation District (Santa Fe I.D.),6507,11239
+2217,Santa Margarita Water District,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,798,CA3010101,Santa Margarita Water District,54907,26910
+2218,Santa Maria  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,307,CA4210011,City of Santa Maria,20288,12631
+2220,Santa Monica  City Of,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,800,CA1910146,City of Santa Monica,17833,11837
+2224,Santa Rosa  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,291,CA4910009,City of Santa Rosa,53193,16539
+2237,Scotts Valley Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,504,CA4410013,Scotts Valley Water DIstrict,4220,1131
+2241,Seal Beach  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,764,CA3010041,City of Seal Beach,5483,3521
+2260,Shafter  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,211,CA1510019,City of Shafter,4562,4259.616336
+2273,Shasta Lake  City Of,Table 2-1 Retail Only: Public Water Systems,Yes,Yes,810,CA4510006,City of Shasta Lake,3820,1617
+2290,Sierra Madre  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,482,CA1910148,City of Sierra Madre,3969,2123
+2323,Soledad  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,645,CA2710011,City of Soledad,3660,1730.97
+2326,Sonoma  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,660,CA4910012,City of Sonoma,4373,1762
+2330,Soquel Creek Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,560,CA4410017,Soquel Creek Water District,15829,2830
+2334,South Coast Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,765,CA3010042,South Coast Water District,12738,6774
+2341,South Gate  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,547,CA1910152,City of South Gate,14179,7691
+2345,South Pasadena  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,661,CA1910154,City of South Pasadena,6168,3872
+2348,South Tahoe Public Utility District,Table 2-1 Retail Only: Public Water Systems,No,N/A,467,CA0910002,South Tahoe PUD,14077,5241
+2370,Stallion Springs Community Services District,Table 2-1 Retail Only: Public Water Systems,No,N/A,595,CA1510025,Stallion Springs CSD,1314,421
+2381,Stockton  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,411,CA3910006,Stockton,49387,24843
+2401,Suburban Water Systems - San Jose Hills,Table 2-1 Retail Only: Public Water Systems,No,N/A,492,CA1910046,Suburban Water Systems-Glendora,1546,855
+2401,Suburban Water Systems - San Jose Hills,Table 2-1 Retail Only: Public Water Systems,No,N/A,492,CA1910200,Suburban Water Systems-Covina Knolls,475,411
+2401,Suburban Water Systems - San Jose Hills,Table 2-1 Retail Only: Public Water Systems,No,N/A,492,CA1910205,Suburban Water Systems-San Jose Hills,40446,22105
+2402,Suburban Water Systems - Whittier/La Mirada,Table 2-1 Retail Only: Public Water Systems,No,N/A,499,CA1910174,Suburban Water Systems-Whittier,17789,9611
+2402,Suburban Water Systems - Whittier/La Mirada,Table 2-1 Retail Only: Public Water Systems,No,N/A,499,CA1910059,Suburban Water Systems-La Mirada,15233,8820
+2405,Suisun - Solano Water Authority,Table 2-1 Retail Only: Public Water Systems,No,N/A,708,CA4810005,Suisun Solano Water Authority,8600,3246.883345
+2419,Sunny Slope Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,556,CA1910157,Sunny Slope Water Company,6252,3237
+2424,Sunnyslope Community Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,790,CA3510003,Sunnyslope CWD,5497,2006
+2425,Sunnyvale  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,649,CA4310014,City Of Sunnyvale,28912,15090
+2437,Sweetwater Authority,Table 2-1 Retail Only: Public Water Systems,No,N/A,453,CA3710025,Sweetwater Authority,33045,19232
+2444,Tahoe City Public Utilities District,Table 2-1 Retail Only: Public Water Systems,No,N/A,612,CA3110011,McKinney/Quail,559,113.5488505
+2444,Tahoe City Public Utilities District,Table 2-1 Retail Only: Public Water Systems,No,N/A,612,CA3110044,Alpine Peaks,96,12.2755514
+2444,Tahoe City Public Utilities District,Table 2-1 Retail Only: Public Water Systems,No,N/A,612,CA0910012,Rubicon,620,104.3421869
+2444,Tahoe City Public Utilities District,Table 2-1 Retail Only: Public Water Systems,No,N/A,612,CA3110010,Tahoe City Main,2899,788.7041775
+2451,Tehachapi  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,651,CA1510020,City of Tehachapi,3085,1737
+2469,Thousand Oaks  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,389,CA5610020,City of Thousand Oaks,17080,9334
+2487,Torrance  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,659,CA1910213,Torrance Municipal Water,26580,23672
+2490,Trabuco Canyon Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,766,CA3010094,Trabuco Canyon Water District,3985,3703
+2496,Tracy  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,401,CA3910011,City of Tracy,24500,14041
+2512,Truckee - Donner Public Utilities District,Table 2-1 Retail Only: Public Water Systems,No,N/A,540,CA2910003,Truckee Main System,12473,4247.340784
+2516,Tulare  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,712,CA5410015,City of Tulare,17485,15349.96325
+2523,Tuolumne Utilities District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,789,CA5510015,Cedar Ridge,673,82.9
+2523,Tuolumne Utilities District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,789,CA5510013,Columbia Gibbs,1887,406.9
+2523,Tuolumne Utilities District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,789,CA5510028,Apple Valley,141,37.4
+2523,Tuolumne Utilities District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,789,CA5510025,Phoenix Lake Park,56,19.9
+2523,Tuolumne Utilities District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,789,CA5510021,Peaceful Pines,32,4.6
+2523,Tuolumne Utilities District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,789,CA5510001,Sonora/Jamestown,4927,1868.9
+2523,Tuolumne Utilities District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,789,CA5510002,Ponderosa Hills,626,137.5
+2523,Tuolumne Utilities District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,789,CA5510033,Scenic View,271,58.6
+2523,Tuolumne Utilities District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,789,CA5500363,Wards Ferry,23,15.3
+2523,Tuolumne Utilities District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,789,CA5510012,Upper Basin,3978,855
+2523,Tuolumne Utilities District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,789,CA5510003,Tuolumne City,681,162.7
+2524,Turlock  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,406,CA5010019,City of Turlock,18686,17415.93855
+2528,Tustin  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,767,CA3010046,City of Tustin,14178,11113
+2530,Twentynine Palms Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,351,CA3610049,Twentynine Palms Water District,6759,2221
+2536,Ukiah  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,179,CA2310003,"Ukiah, City of",4781,2534
+2541,Upland  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,568,CA3610050,City of Upland,18813,19214
+2597,Vacaville  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,621,CA4810008,City of Vacaville,27041,13205
+2601,Valencia Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,657,CA1910240,VWC,31094,23632
+2602,Vallecitos Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,512,CA3710002,Vallecitos Water District,21932,13346.59326
+2604,Valley Center Municipal Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,848,CA3710026,Valley Center Municipal Water District,10761,24511
+2605,Valley County Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,433,CA1910009,Valley County Water District,12500,7302
+2610,Valley Of The Moon Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,360,CA4910013,Valley of the Moon Water District,6884,2529
+2618,Valley Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,476,CA1910166,Valley Water Company,3604,2994
+2626,Vaughn Water Company,Table 2-1 Retail Only: Public Water Systems,No,N/A,275,CA1510029,Vaughn Water Company,10318,9846.680111
+2629,Ventura County Waterworks District No 01 - Moorpark,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,505,CA5610018,Ventura County Waterworks District No. 1,10944,9525
+2631,Ventura County Waterworks District No 08 - Simi Valley,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,454,CA5610023,Ventura WWD No. 8 - Simi Valley,25517,18330
+2633,Vernon  City Of,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,480,CA1910167,City of Vernon,1018,6846
+2635,Victorville Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,394,CA3610052,Victorville Water District,34779,20843
+2649,Vista Irrigation District,Table 2-1 Retail Only: Public Water Systems,No,N/A,514,CA3710027,Vista Irrigation District,28649,17883
+2661,Walnut Valley Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,550,CA1910234,Walnut Valley Water District,26836,16603
+2669,Watsonville  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,402,CA4410011,City of Watsonville,14782,6870
+2679,West Kern Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,548,CA1510022,West Kern Water District,6712,21003
+2689,West Valley Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,380,CA3610004,West Valley Water District,20540,17038
+2691,Westborough Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,471,CA4110027,Westborough County Water District,3882,926.8041307
+2697,Western Municipal Water District Of Riverside,Table 2-1 Retail Only: Public Water Systems,No,N/A,362,CA3310036,Western MWD - Murrieta Division,2772,1824
+2697,Western Municipal Water District Of Riverside,Table 2-1 Retail Only: Public Water Systems,No,N/A,362,CA3310049,Western MWD,20834,18248
+2697,Western Municipal Water District Of Riverside,Table 2-1 Retail Only: Public Water Systems,No,N/A,362,CA3310076,Western MWD (ID A - Rainbow),48,34
+2704,Westminister  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,390,CA3010064,City of Westminster,20447,11622
+2723,Whittier  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,354,CA1910173,City of Whittier Water Dept.,11352,7904
+2751,Windsor  Town Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,521,CA4910017,Windsor Water District,9172,3048
+2766,Woodland  City Of,Table 2-1 Retail Only: Public Water Systems,No,N/A,327,CA5710006,City of Woodland,15635,8650
+2782,Yorba Linda Water District,Table 2-1 Retail Only: Public Water Systems,Under Review,N/A,397,CA3010037,Yorba Linda Water District,24703,19776
+2790,Yuba City,Table 2-1 Retail Only: Public Water Systems,No,N/A,605,CA5110002,Yuba City Water System,18612,12981.39561
+2793,Yucaipa Valley Water District,Table 2-1 Retail Only: Public Water Systems,No,N/A,416,CA3610055,Yucaipa Valley Water District,12304,9595
