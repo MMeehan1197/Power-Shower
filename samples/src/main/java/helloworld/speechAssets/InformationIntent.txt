@@ -1,0 +1,1 @@
+[InformationIntent] [about|for]? [my]? [showering]? [{Times}]?

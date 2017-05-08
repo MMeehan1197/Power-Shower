@@ -1,0 +1,12 @@
+InformationIntent {Times}
+InformationIntent showering {Times}
+InformationIntent my {Times}
+InformationIntent my showering {Times}
+InformationIntent about {Times}
+InformationIntent about showering {Times}
+InformationIntent about my {Times}
+InformationIntent about my showering {Times}
+InformationIntent for {Times}
+InformationIntent for showering {Times}
+InformationIntent for my {Times}
+InformationIntent for my showering {Times}

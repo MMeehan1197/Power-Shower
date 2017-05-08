@@ -1,0 +1,35 @@
+InformationIntent {Reduce} water
+InformationIntent {Reduce} water usage
+InformationIntent strategies to {Reduce} water
+InformationIntent strategies to {Reduce} water usage
+InformationIntent ways to {Reduce} water
+InformationIntent ways to {Reduce} water usage
+InformationIntent approach to {Reduce} water
+InformationIntent approach to {Reduce} water usage
+InformationIntent approaches to {Reduce} water
+InformationIntent approaches to {Reduce} water usage
+InformationIntent strategy to {Reduce} water
+InformationIntent strategy to {Reduce} water usage
+InformationIntent way to {Reduce} water
+InformationIntent way to {Reduce} water usage
+InformationIntent plan to {Reduce} water
+InformationIntent plan to {Reduce} water usage
+InformationIntent plans to {Reduce} water
+InformationIntent plans to {Reduce} water usage
+InformationIntent how to {Reduce} water
+InformationIntent how to {Reduce} water usage
+
+reduce
+cut
+cut back
+cut back on
+cut down
+cut down on
+drop
+slash
+trim
+lower
+minimize
+lessen
+scale down
+decrease

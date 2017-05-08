@@ -1,0 +1,32 @@
+StartTimerIntent start shower
+StartTimerIntent start timer
+StartTimerIntent start shower timer
+StartTimerIntent start time
+StartTimerIntent start the shower
+StartTimerIntent start the timer
+StartTimerIntent start the shower timer
+StartTimerIntent start the time
+StartTimerIntent begin shower
+StartTimerIntent begin timer
+StartTimerIntent begin shower timer
+StartTimerIntent begin time
+StartTimerIntent begin the shower
+StartTimerIntent begin the timer
+StartTimerIntent begin the shower timer
+StartTimerIntent begin the time
+StartTimerIntent launch shower
+StartTimerIntent launch timer
+StartTimerIntent launch shower timer
+StartTimerIntent launch time
+StartTimerIntent launch the shower
+StartTimerIntent launch the timer
+StartTimerIntent launch the shower timer
+StartTimerIntent launch the time
+StartTimerIntent start up shower
+StartTimerIntent start up timer
+StartTimerIntent start up shower timer
+StartTimerIntent start up time
+StartTimerIntent start up the shower
+StartTimerIntent start up the timer
+StartTimerIntent start up the shower timer
+StartTimerIntent start up the time

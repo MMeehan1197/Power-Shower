@@ -1,0 +1,1 @@
+[StartTimerIntent] [start|begin|launch|start up] [the]? [shower|timer|shower timer|time]
